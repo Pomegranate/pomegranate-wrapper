@@ -1,0 +1,19 @@
+{
+  "name": "pomegranate-wrapper",
+  "version": "0.0.0",
+  "description": "Wraps plain dependencies in a Pomegranate multi plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pomegranate",
+    "Plugin",
+    "Utilities"
+  ],
+  "author": "Jim <monstertke@paperelectron.com> (http://paperelectron.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "magnum-plugin-utils": "^1.2.0"
+  }
+}
