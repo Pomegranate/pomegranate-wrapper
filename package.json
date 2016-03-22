@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-wrapper",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Wraps plain dependencies in a Pomegranate multi plugin.",
   "main": "index.js",
   "scripts": {
